@@ -6,6 +6,7 @@
 * [A curated collection of marketing articles & tools to grow your product](https://github.com/Uncodedtech/Marketing-for-Engineers)
 * [A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups](https://github.com/Uncodedtech/awesome-cto)
 * [Pocket Marketing Tech List 🗂](https://github.com/Uncodedtech/pocket-marketing-tech-list)
+* [Resources to promote your startup](https://github.com/Uncodedtech/promote-your-next-startup)
 
 ------------------------------------------------------------------
 -----------------------------------------------
